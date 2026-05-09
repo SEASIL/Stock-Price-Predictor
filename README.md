@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Live Deployment
-**[View the Live App Here](INSERT_YOUR_STREAMLIT_URL_HERE)**
+**[View the Live App Here]([INSERT_YOUR_STREAMLIT_URL_HERE](https://stock-price-predictor-seasil.streamlit.app/))**
 
 ---
 
