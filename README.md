@@ -6,11 +6,6 @@
 
 ---
 
-## 🚀 Live Deployment
-**[View the Live App Here](https://stock-price-predictor-seasil.streamlit.app/)**
-
----
-
 ## 💎 Key Features
 * **Deep Learning Engine**: Utilizes a multi-layered LSTM architecture built on **TensorFlow/Keras** to capture non-linear market trends.
 * **Cinematic UI**: A custom-coded "Void" dark theme featuring neon cyan and purple accents for a high-end fintech experience.
